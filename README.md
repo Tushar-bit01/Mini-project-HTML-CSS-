@@ -6,7 +6,7 @@ It uses a hidden checkbox + label trick to show/hide the menu (commonly known as
 
 ---
 ##Live Demo
-[Click to View](https://grand-peony-d40c57.netlify.app/)
+[Click to View](https://tushar-toggleui.netlify.app/)
 
 ##  Features
 
