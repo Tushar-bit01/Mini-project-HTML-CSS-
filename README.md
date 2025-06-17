@@ -5,6 +5,8 @@ This project demonstrates a **responsive toggle sidebar navigation menu** built 
 It uses a hidden checkbox + label trick to show/hide the menu (commonly known as the **CSS-only toggle technique**), ideal for lightweight responsive websites or portfolios.
 
 ---
+##Live Demo
+[Click to View](https://grand-peony-d40c57.netlify.app/)
 
 ##  Features
 
@@ -18,5 +20,5 @@ It uses a hidden checkbox + label trick to show/hide the menu (commonly known as
 
 ---
 
-##  Folder Structure
+
 
